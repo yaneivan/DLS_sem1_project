@@ -1,2 +1,11 @@
 /__pycache__
 /data
+models/face_rec_CE_200_classes.pth
+models/face_rec_CE_500_classes.pth
+models/face_rec_zadanie2.pth
+models/facerec_triplet_only_best.pth
+models/learn_facerec_triplet_arc.pth
+models/learn_facerec_triplet_only_best.pth
+models/learn_lossfn_triplet_arc.pth
+models/train_serious.pth
+models/working_aligner.pth
